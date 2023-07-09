@@ -114,3 +114,4 @@ class SearchTreeView(CustomListView):
         date_string = self.tree_store[paths[0]][0]
         new_date = dates.get_date_from_date_string(date_string)
         self.journal.change_date(new_date)
+.
