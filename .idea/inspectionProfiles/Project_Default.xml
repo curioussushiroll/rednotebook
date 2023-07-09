@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="rednotebook.gui.main_window._" />
+          <option value="rednotebook.gui.search._" />
+          <option value="rednotebook.gui.options._" />
+          <option value="rednotebook.gui.insert_menu._" />
+          <option value="rednotebook.journal._" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
